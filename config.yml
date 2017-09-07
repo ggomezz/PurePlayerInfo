@@ -1,0 +1,10 @@
+name: PurePlayerInfo
+main: PurePlayerInfo\PurePlayerInfo
+version: "1.0.0-Dev1"
+api: 3.0.0-ALPHA7
+author: ggomez
+description: 
+
+commands:
+
+permissions:
